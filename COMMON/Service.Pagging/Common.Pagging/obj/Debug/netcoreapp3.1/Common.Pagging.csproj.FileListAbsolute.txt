@@ -1,0 +1,15 @@
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Pagging.deps.json
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Pagging.dll
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Pagging.pdb
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Collection.dll
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Collection.pdb
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.AssemblyReference.cache
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.AssemblyInfoInputs.cache
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.AssemblyInfo.cs
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.CoreCompileInputs.cache
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.CopyComplete
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.dll
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.pdb

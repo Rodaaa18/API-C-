@@ -1,0 +1,10 @@
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\bin\Debug\netcoreapp3.1\Common.Mapping.deps.json
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\bin\Debug\netcoreapp3.1\Common.Mapping.dll
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\bin\Debug\netcoreapp3.1\Common.Mapping.pdb
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.csproj.AssemblyReference.cache
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.AssemblyInfoInputs.cache
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.AssemblyInfo.cs
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.dll
+C:\Users\Roda\Desktop\Api---ggtt-main\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.pdb
